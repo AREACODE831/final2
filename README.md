@@ -1,4 +1,4 @@
-# Final randomizer 
+# Final randomizer - Take the mythological creature with you to travel beyond!
 references and image sources:
 
 Newsway
