@@ -1,0 +1,56 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  color: #6C60BF;
+  background-color: #F2C2DC;
+
+}
+
+h1{
+  text-align: center;
+  padding: 1px;
+  font-size: 30px;
+  font-family: 'Nothing You Could Do', cursive;
+}
+
+p {
+  font-family: 'DotGothic16', sans-serif;
+  font-size: 14px;
+}
+canvas {
+    display: block;
+    margin: auto;
+    /* padding-left: 300px; */
+  }
+
+  button {
+    margin: auto;
+    display: block;
+    margin-top: 5px;
+    padding: 15px;
+    color: black;
+    background-color: yellow;
+    border-style: none;
+
+
+  }
+
+
+/* .randomizerButton {
+  margin: auto;
+  display: block;
+  background-color: #4EA4D9;
+  } */
+
+.buttonFont {
+
+}
+
+/* .row {
+  display: flex;
+} */
+
+/* .column {
+  margin: 10px;
+  flex: 50%;
+} */
